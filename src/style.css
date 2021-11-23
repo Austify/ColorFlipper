@@ -1,0 +1,30 @@
+body{
+    background-color: red;
+}
+#navbar{
+    background-color: #fff;
+}
+.navbar-brand{
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    color:#49a6e9;
+}
+
+.nav-link{
+    font-family:"Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+h1{
+    color:#fff;
+}
+.backgroundColor{
+    background-color: #000;
+    border-radius: 2px;
+}
